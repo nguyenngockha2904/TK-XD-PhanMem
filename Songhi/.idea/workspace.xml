@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b42fff7a-c695-4153-988d-3cde772499cf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../DongHo/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DongHo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DongHo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DongHo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DongHo/DongHo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DongHo/out/production/DongHo/Clock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DongHo/out/production/DongHo/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DongHo/src/Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DongHo/src/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UMLpractices1/ULMpractices1Project.eapx" beforeDir="false" afterPath="$PROJECT_DIR$/../UMLpractices1/ULMpractices1Project.eapx" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1RGgNP8aDANKRNA5hnTE9ZOXiaQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="SongHi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SongHi.SongHi" />
+      <module name="Songhi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SongHi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SongHi" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b42fff7a-c695-4153-988d-3cde772499cf" name="Default Changelist" comment="" />
+      <created>1569298805586</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569298805586</updated>
+      <workItem from="1569298807102" duration="165000" />
+      <workItem from="1569330211765" duration="4672000" />
+      <workItem from="1569336610230" duration="57000" />
+      <workItem from="1571450388965" duration="216000" />
+      <workItem from="1571450856020" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
