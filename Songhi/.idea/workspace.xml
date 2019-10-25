@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b42fff7a-c695-4153-988d-3cde772499cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../DongHo/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DongHo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DongHo/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DongHo/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DongHo/DongHo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DongHo/out/production/DongHo/Clock.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DongHo/out/production/DongHo/main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DongHo/src/Clock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DongHo/src/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UMLpractices1/ULMpractices1Project.eapx" beforeDir="false" afterPath="$PROJECT_DIR$/../UMLpractices1/ULMpractices1Project.eapx" afterDir="false" />
-    </list>
+    <list default="true" id="b42fff7a-c695-4153-988d-3cde772499cf" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -28,6 +20,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1RGgNP8aDANKRNA5hnTE9ZOXiaQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -83,6 +78,9 @@
       <workItem from="1569336610230" duration="57000" />
       <workItem from="1571450388965" duration="216000" />
       <workItem from="1571450856020" duration="6000" />
+      <workItem from="1571794242246" duration="15000" />
+      <workItem from="1571794261374" duration="3000" />
+      <workItem from="1571794266898" duration="155000" />
     </task>
     <servers />
   </component>
