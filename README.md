@@ -1,3 +1,3 @@
 # UMLproject
-môn: Thiết kế xây dựng phần mềm
-Sinh viên: nguyễn ngọc kha
+#môn: Thiết kế xây dựng phần mềm
+#Sinh viên: nguyễn ngọc kha
